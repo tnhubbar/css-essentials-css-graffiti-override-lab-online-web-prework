@@ -18,3 +18,8 @@
     display: none;
 }
 
+div#wall .parent #tag-5.slick {
+    background: url(../images/tag-5.png) no-repeat;
+    z-index: 3;
+    display: none;
+}
